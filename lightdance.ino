@@ -297,7 +297,7 @@ void loop()
   {hi();}
   delay(100);
   {bl();}
-  delay(100);
+  delay(1000);
   {f();}
   delay(100);
 {cc();}
